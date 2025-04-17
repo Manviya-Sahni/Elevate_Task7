@@ -96,7 +96,6 @@ The bar chart displays revenue by product.
 
 ---
 
-###Submitted by: Manviya Sahni
 
 ### Learning Outcomes
 
@@ -104,3 +103,7 @@ The bar chart displays revenue by product.
 - Converted SQL results into a Pandas DataFrame
 - Created a visual summary using a basic bar chart
 - Practiced integrating SQLite with Python
+
+--- 
+
+### Submitted by: Manviya Sahni
